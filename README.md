@@ -38,7 +38,7 @@ $ sudo python3 setup.py install
 
 3- Install Netzob:
 ```
-$ git clone https://dev.netzob.org/git/netzob
+$ git clone https://github.com/netzob/netzob
 $ cd ./netzob/
 $ sudo apt-get install python3 python3-dev python3-setuptools build-essential
 $ python3 setup.py install
