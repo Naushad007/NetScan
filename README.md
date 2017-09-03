@@ -1,4 +1,4 @@
-# NetScan
+# RedTeam ToolKit -NetScan
 
 ![UI](https://www.naushad.co.uk/img/public/RedTeamNetScan.jpg)
 
