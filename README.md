@@ -5,8 +5,6 @@
 
 RedTeam NetScan is a Tool for Network Scan, Man in the Middle, Protocol Reverse Engineering and Fuzzing.
 
-![UI](https://www.naushad.co.uk/img/public/RedTeamNetScan.jpg)
-
 ## Prerequisites
 
 * [Python](https://www.python.org) - Python Programming Language
