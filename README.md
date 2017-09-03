@@ -1,4 +1,4 @@
-# RedTeam ToolKit -NetScan
+# RedTeam ToolSet -NetScan
 
 ![UI](https://www.naushad.co.uk/wp-content/uploads/2017/07/CyberScreen-1.gif)
 
