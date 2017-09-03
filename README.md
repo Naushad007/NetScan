@@ -1,6 +1,6 @@
 # RedTeam ToolSet -NetScan
 
-![UI](https://www.naushad.co.uk/wp-content/uploads/2017/07/CyberScreen-1.gif)
+![UI](https://www.naushad.co.uk/img/public/CyberScreen-RedTeam.gif)
 
 # NetScan Interface
 NetScan is a RedTeam Toolkit for Network Scan, Man in the Middle and Reverse Engineering. [Offensive and Defensive ToolSet]
